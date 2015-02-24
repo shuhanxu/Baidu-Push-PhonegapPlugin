@@ -109,7 +109,7 @@
 	      <!-- push service end -->
 
 				 <!-- 在百度开发者中心查询应用的API Key -->
-	       <meta-data android:name="api_key" android:value="YOUR_API_KEY" />
+	       <meta-data android:name="api_key" android:value="IUVDQGF7kLCP6QmpQjj79Zn3" />
 				</config-file>
 
 
